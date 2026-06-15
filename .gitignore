@@ -1,0 +1,16 @@
+# Build output
+/target/
+dependency-reduced-pom.xml
+
+# Local database file (created at runtime)
+epms.db
+
+# Eclipse / IDE
+/bin/
+.settings/
+.classpath
+.project
+
+# OS
+Thumbs.db
+.DS_Store
