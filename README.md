@@ -1,8 +1,6 @@
 # EPMS — Employee's Payroll Management System
 
-A Java Swing desktop application for managing employee payroll at a restaurant
-("Bite Delight"). An admin can register employees, record deductions and
-overtime, compute bonuses, search records, and generate PDF payslips.
+A Java Swing desktop payroll management application built for a restaurant called Bite Delight. Developed features allowing admins to register employees, record deductions and overtime, compute bonuses, search records, and generate PDF payslips for streamlined payroll processing.
 
 The app uses an **embedded SQLite database** (`epms.db`), created automatically
 on first launch — there is no database server to install or configure.
